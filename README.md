@@ -4,3 +4,6 @@ The FSPN or FriendSPN is extremely fast novel alogirthm on the area of SPN for E
 
 
 For additional details please contact the author on this email included in the Paper
+
+
+DOI: 10.13140/RG.2.2.17905.76641/1
