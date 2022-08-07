@@ -1,4 +1,4 @@
-# fspn
+# RP-SPN
 
 The RP-SPN is extremely fast novel alogirthm on the area of SPN for Extra-wide dataset.Current repository contains the test results received from the experiments.
 
