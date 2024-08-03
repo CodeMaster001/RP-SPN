@@ -1,6 +1,6 @@
 # Rapid-SPN
 
-The RP-SPN is extremely fast novel alogirthm on the area of SPN for Extra-wide dataset.Current repository contains the test results received from the experiments.
+The RP-SPN is extremely fast novel alogrithm on the area of SPN for Extra-wide dataset.Current repository contains the test results received from the experiments.
 
 Code is posted on this repository
 https://github.com/CodeMaster001/spnrp
