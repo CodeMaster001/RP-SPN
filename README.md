@@ -15,6 +15,6 @@ Prajay Shetty, <br>
 University of Georgia, <br>
 Department of Computer Science, <br>
 
-Special Thanks to European Community to raise an Helping hand when in time in need.
+Special Thanks to European Community for supporting research work with compute resources.
 
 For RP-Tree Codebase please refer to RP-Tree Community repository
