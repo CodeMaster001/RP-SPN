@@ -11,8 +11,10 @@ For additional details please contact the author on this email included in the P
 DOI: 10.13140/RG.2.2.23868.72325/4
 https://www.academia.edu/122433116/Rapid
 
-Prajay Shetty,
-University of Georgia,
-Department of Computer Science,
+Prajay Shetty, <br>
+University of Georgia, <br>
+Department of Computer Science, <br>
 
 Special Thanks to European Community to raise an Helping hand when in time in need.
+
+For RP-Tree Codebase please refer to RP-Tree Community repository
