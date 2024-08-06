@@ -21,3 +21,5 @@ Dr.Doshi provided the teaching for SPN and introduced to EWDs. </br>
 Dr.Kristian provided the idea for using SPN with RP-Tree </br>
 Prajay Shetty had the novelty for the approach of combining RP-Tree and SPN and also wrote down theory behind it and performed analysis ,validation, wrote down theory</br>
 Fabrzio Ventola, supported by running experiments in the European Cluster based on the input provided by Prajay Shetty. </br>
+
+To be added in the Final Edition
