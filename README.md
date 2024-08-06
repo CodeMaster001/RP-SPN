@@ -17,9 +17,7 @@ Department of Computer Science, <br>
 
 
 Contributions </br>
-Dr.Doshi provided the teaching for SPN. </br>
+Dr.Doshi provided the teaching for SPN and introduced to EWDs. </br>
 Dr.Kristian provided the idea for using SPN with RP-Tree </br>
 Prajay Shetty had the novelty for the approach of combining RP-Tree and SPN and also wrote down theory behind it and performed analysis ,validation, wrote down theory and  cordinated with all the researchers. </br>
 Fabrzio Ventola, supported by running experiments in the European Cluster based on the input provided by Prajay Shetty. </br>
-
-Special Thanks to European Community for supporting research work with compute resources. Special Thanks to RP-Tree Code for that, please refer citation on the Paper.
