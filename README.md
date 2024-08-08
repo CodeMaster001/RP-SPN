@@ -17,9 +17,9 @@ Department of Computer Science, <br>
 
 
 Contributions </br>
-Kripa Rajashekar introduced to EWDS </br>
-Dr.Doshi provided the teaching for SPN in the begining. </br>
-Dr.Kristian provided the idea for using SPN with RP-Tree continued teaching SPN </br>
+Kripa Rajeshkar introduced to EWD. </br>
+Dr.Doshi provided the teaching for SPN </br>
+Dr.Kristian provided the idea for using SPN with RP-Tree and taught SPN </br>
 Prajay Shetty had the novelty for the approach of combining RP-Tree and SPN and also wrote down theory behind it and performed analysis ,validation, wrote down theory and wrote code</br>
 Fabrzio Ventola, supported by running experiments in the European Cluster based on the input provided by Prajay Shetty. </br>
 
