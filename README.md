@@ -8,12 +8,12 @@ https://github.com/CodeMaster001/spnrp
 
 For additional details please contact the author on this email included in the Paper
 
-DOI: 10.13140/RG.2.2.23868.72325/4
+DOI: https://doi.org/10.13140/RG.2.2.23868.72325/4
+
 
 Version v6
-10.5281/zenodo.13731764
-
 https://zenodo.org/records/13726892
+https://doi.org/10.5281/zenodo.13731764
 
 Prajay Shetty, <br>
 University of Georgia, <br>
